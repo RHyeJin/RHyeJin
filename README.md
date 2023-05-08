@@ -74,6 +74,6 @@
 <div align="center">
     
 ![RHyeJin's github stats](https://github-readme-stats.vercel.app/api?username=RHyeJin&show_icons=true)
-![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=JMyoung98&langs_count=10)
+![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=RHyeJin&langs_count=10)
     
 </div>
