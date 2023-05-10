@@ -7,7 +7,7 @@
     <Strong>☁️Portfolio List☁️</Strong><br><br>
     notion link :  <a href="https://glib-rambutan-fea.notion.site/4d2be02dfcce4f88a62436718344992d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJMyoung98%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRHyehin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>tst50087@gmail.com<br> </Strong><br>tst5008@naver.com<br>
 
@@ -73,9 +73,12 @@
 
 <br>
 
-<div align="center">
+<table><tr><td valign="top" width="50%">    
+
+![HyeJin's github stats](https://github-readme-stats.vercel.app/api/?username=RHyeJin&layout=compact&theme=vue&langs_count=5&width=400&height=200&custom_title=Most%20Used%20Languages&card_width=400&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&hide_title=false&exclude_repo=RHyeJin.github.io&hide=html)
+
+</td><td valign="top" width="50%">
+
+![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=RHyeJin&layout=compact&theme=vue&langs_count=5&width=400&height=200&custom_title=Most%20Used%20Languages&card_width=400&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&hide_title=false&exclude_repo=RHyeJin.github.io&hide=html)
     
-![RHyeJin's github stats](https://github-readme-stats.vercel.app/api?username=RHyeJin&show_icons=true)
-![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=RHyeJin&langs_count=10)
-    
-</div>
+</td></tr></table>  
