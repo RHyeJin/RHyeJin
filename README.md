@@ -1,6 +1,6 @@
 <p align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF9999&height=300&section=header&text=HyeJin's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
-</p>
 
 <br>
 
