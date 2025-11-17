@@ -1,4 +1,6 @@
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF9999&height=300&section=header&text=HyeJin's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
+</p>
 
 <br>
 
@@ -48,16 +50,16 @@
     <img src="https://img.shields.io/badge/YOLOv11-FF6600?style=for-the-badge&logo=YOLO&logoColor=white" alt="YOLOv11"/>
     <img src="https://img.shields.io/badge/QWEN-aae?style=for-the-badge&logo=QWEN&logoColor=white" alt="QWEN"/>
     <img src="https://img.shields.io/badge/Whisper-000?style=for-the-badge&logo=Whisper&logoColor=white" alt="Whisper"/>
-    <img src="https://img.shields.io/badge/Edge TTS-00C?style=for-the-badge&logo=Edge TTS&logoColor=white" alt="Edge TTS"/>
+    <img src="https://img.shields.io/badge/Edge%20TTS-00C?style=for-the-badge&logo=Microsoft%20Edge&logoColor=white" alt="Edge TTS"/>
 </p>
 <p align="center" display="inline-block">
     💡Robotics/Frameworks <br>
-    <img src="https://img.shields.io/badge/ROS2-225?style=for-the-badge&logo=ROS2&logoColor=white" alt="ROS2"/>
-    <img src="https://img.shields.io/badge/Slam&Nav-595?style=for-the-badge&logo=Slam&Nav&logoColor=white" alt="ST-GCN"/>
+    <img src="https://img.shields.io/badge/ROS2-225?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS2"/>
+    <img src="https://img.shields.io/badge/Slam&Nav-595?style=for-the-badge&logo=Slam&logoColor=white" alt="ST-GCN"/>
 </p>
 <p align="center" display="inline-block">
     💡UI <br>
-    <img src="https://img.shields.io/badge/PyQT-28c745?style=for-the-badge&logo=PyQT&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyQT-28c745?style=for-the-badge&logo=Qt&logoColor=white"/>
 </p>
 <p align="center" display="inline-block">
     💡DB <br>
@@ -68,18 +70,10 @@
     💡Cowork Tools <br>
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Google Slides-4A154B?style=for-the-badge&logo=Google Slides&logoColor=white">
+    <img src="https://img.shields.io/badge/Google%20Slides-4A154B?style=for-the-badge&logo=Google%20Slides&logoColor=white">
     <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
     <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
-
-<p align="center">
-    💡Used at least once<br>
-</p>
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
-
 </p>
 
 <br>
