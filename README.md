@@ -82,7 +82,13 @@
     <Strong>🚀Projects🚀</Strong><br>
 </p>
 
-### 1. 원격 쇼핑 로봇 플랫폼 (Remote Shopping Robot Platform)
+### 1. 근무자 위치 및 생체신호 위치추적 시스템 (SafeTrackX)
+- **기간:** 2023.02.1 ~ 2025.03.31 (약 4주)
+- **설명:** ESP32, Bluetooth, 초음파 센서, 자이로센서, 조도센서 그리고 LoRa Sx1278을 활용하여 범용적 현장에 적용되는 종합안전 솔루션을 제공하는 TCP/IP Sokcet 통신을 활용한 IoT 시스템 개발 프로젝트.
+- **기술 스택:** C, C++, Linux, Ubuntu, VSCode, MySQL, YOLO, Git, GitHub, 
+- **GitHub Repository:** [SafeTrackX](https://github.com/RHyeJin/DeviceMart_Safty_Infra_Platform.git)
+
+### 2. 원격 쇼핑 로봇 플랫폼 (Remote Shopping Robot Platform)
 - **기간:** 2025.09.10 ~ 2025.11.18 (약 10주)
 - **설명:** ROS2, AI(YOLOv8, YOLOv11, QWEN, Whisper, Edge TTS) 및 LLM을 활용하여 원격 상품 선택, 모니터링, 포장 지원 등의 작업을 수행하는 자율 원격 쇼핑 로봇 플랫폼 개발 프로젝트.
 - **기술 스택:** ROS2, Python, C++, Linux, Ubuntu, VSCode, PyQT, MySQL, YOLOv8, YOLOv11, QWEN, Whisper, Edge TTS, Git, GitHub, Slack, Confluence, Jira
