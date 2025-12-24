@@ -86,7 +86,8 @@
 - **기간:** 2025.09.10 ~ 2025.11.18 (약 10주)
 - **설명:** ROS2, AI(YOLOv8, YOLOv11, QWEN, Whisper, Edge TTS) 및 LLM을 활용하여 원격 상품 선택, 모니터링, 포장 지원 등의 작업을 수행하는 자율 원격 쇼핑 로봇 플랫폼 개발 프로젝트.
 - **기술 스택:** ROS2, Python, C++, Linux, Ubuntu, VSCode, PyQT, MySQL, YOLOv8, YOLOv11, QWEN, Whisper, Edge TTS, Git, GitHub, Slack, Confluence, Jira
-- **GitHub Repository:** [roscamp-repo-1](https://github.com/addinedu-roscamp-7th/roscamp-repo-1) 
+- **GitHub Repository:** [roscamp-repo-1](https://github.com/addinedu-roscamp-7th/roscamp-repo-1)
+- [roscamp-repo-1](https://github.com/RHyeJin/DeviceMart_Safty_Infra_Platform.git)
 
 <br>
 
